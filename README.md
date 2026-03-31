@@ -17,3 +17,5 @@ This project consists of a Python application that evaluates student grades from
 - [cite_start]**Validation**: Checks if scores are 0-100 and weights total 100 (60 Formative / 40 Summative)[cite: 33, 34, 35].
 - [cite_start]**GPA**: Calculates GPA on a 5.0 scale.
 - [cite_start]**Archiving**: Moves processed grades to an `archive/` folder with a timestamp[cite: 51].
+
+The original grades.csv has been archived to the archive/ folder after running organizer.sh. The data can be found there.
